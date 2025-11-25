@@ -1,2 +1,3 @@
-# New-Website
-My Portfolio Project
+# Website Portfolio
+Jerick Zandrei M. Macasinag
+BSIT - CISCO NETWORKING
